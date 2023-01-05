@@ -36,7 +36,7 @@
 
 **Today's Progress**: Solved the problem named as 'Richest Customer Wealth'.
 
-**Thoughts** I'm starting to get the hang of this daily coding thing! I'm getting more comfortable with the programming language I'm using and am making good progress              on my coding skills
+**Thoughts:** I'm starting to get the hang of this daily coding thing! I'm getting more comfortable with the programming language I'm using and am making good progress              on my coding skills
 
 **Link(s) to work :** [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/submissions/863667041/)
 
@@ -46,7 +46,7 @@
 
 **Today's Progress**: Solved the problem named as 'Number of Good Pairs'.
 
-**Thoughts** I'm really enjoying the sense of accomplishment that comes from tackling a new coding project each day. I'm learning a lot and am excited to keep improving
+**Thoughts:** I'm really enjoying the sense of accomplishment that comes from tackling a new coding project each day. I'm learning a lot and am excited to keep improving
 
 **Link(s) to work :** [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/submissions/864891278/)
 
@@ -56,8 +56,50 @@
 
 **Today's Progress**: Solved the problem named as 'How Many Numbers Are Smaller Than the Current Number'
 
-**Thoughts** It was a really tough day as I was not able to understant the problem also the solution was giving a lot of errors and by the end of an hour I was able to solve it and then go celebrate christmas.
+**Thoughts:** It was a really tough day as I was not able to understant the problem also the solution was giving a lot of errors and by the end of an hour I was able to solve it and then go celebrate christmas.
 
 **Link(s) to work :** [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/865897978/)
+
+
+
+### Day 7: December 26, 2022
+
+**Today's Progress**: Solved the problem named as 'Check if the Sentence Is Pangram'
+
+**Thoughts:** I can't believe I'm already a week into my daily coding streak! It's been challenging at times, but I'm loving the learning process and am excited to see what the future holds.
+
+**Link(s) to work :** [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/submissions/866498240/)
+
+
+
+### Day 8: December 27, 2022
+
+**Today's Progress**: Solved the problem named as 'Count Items Matching a Rule'
+
+**Thoughts:** I'm starting to feel more comfortable with more advanced coding concepts. It's exciting to see my skills improving!
+
+**Link(s) to work :** [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/submissions/867095294/)
+
+
+
+### Day 9: December 28, 2022
+
+**Today's Progress**: Solved the problem-'Find the Highest Altitude' & '	Single-Threaded CPU'.
+
+**Thoughts:** Today was a tough day, but I was able to work through a particularly challenging problem with the help of some online resources and a lot of perseverance.
+
+**Link(s) to work :** 
+1. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/submissions/867645901/)
+2. [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu/submissions/867661159/)
+
+
+
+### Day 10: December 29, 2022
+
+**Today's Progress**: Solved the problem named as 'Flipping an Image'
+
+**Thoughts:** I'm really enjoying the sense of accomplishment that comes from completing a new coding project each day. It's amazing to see how much I've learned in just a week and a half.
+
+**Link(s) to work :** [Flipping an Image](https://leetcode.com/problems/flipping-an-image/submissions/868450451/)
 
 
