@@ -103,3 +103,45 @@
 **Link(s) to work :** [Flipping an Image](https://leetcode.com/problems/flipping-an-image/submissions/868450451/)
 
 
+
+### Day 11: December 30, 2022
+
+**Today's Progress**: Solved the problem named as 'Unique Paths III'
+
+**Thoughts:** Today was spent debugging. Despite the occasional frustration, I enjoy the satisfaction of solving the problem. It's a fantastic feeling of achievement.
+
+**Link(s) to work :** [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/submissions/868662815/)
+
+
+
+### Day 12: December 31, 2022
+
+**Today's Progress**: Solved the problem named 'To Lower Case'.
+
+**Thoughts:** I was able to finish a number of the projects and chores on my to-do list today, making it a fruitful day. It always feels good to check things off and see how far I've come.
+
+**Link(s) to work :**  [To Lower Case](https://leetcode.com/problems/to-lower-case/submissions/868690155/)
+
+
+
+### Day 13: January 1, 2023
+
+**Today's Progress**: Solved the problem named as 'Word Pattern', 'Sort an Array'.
+
+**Thoughts:** Even though it was a challenging challenge, solving it on the first day of the year was a fantastic experience. The new year marked the beginning of a new beginning.
+
+**Link(s) to work :** 
+1. [Word Pattern](https://leetcode.com/problems/word-pattern/submissions/869076703/)
+2. [Sort an Array](https://leetcode.com/problems/sort-an-array/submissions/869067749/)
+
+
+
+### Day 14: January 2, 2023
+
+**Today's Progress**: Solved the problem named as 'Cells with Odd Values in a Matrix'
+
+**Thoughts:** I'm really enjoying the sense of accomplishment that comes from completing a new coding project each day. It's amazing to see how much I've learned in just a week and a half.
+
+**Link(s) to work :** [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/submissions/)
+
+
